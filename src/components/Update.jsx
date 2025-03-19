@@ -2,7 +2,7 @@ import React from 'react'
 
 function Update() {
   return (
-    <div>Update Area</div>
+    <div>Update</div>
   )
 }
 
